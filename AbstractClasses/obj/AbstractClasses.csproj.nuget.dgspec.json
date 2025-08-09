@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment2-11024572\\AbstractClasses\\AbstractClasses.csproj": {}
+    "C:\\Users\\Caleb\\Downloads\\dcit318-assignment2-11024572\\AbstractClasses\\AbstractClasses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment2-11024572\\AbstractClasses\\AbstractClasses.csproj": {
+    "C:\\Users\\Caleb\\Downloads\\dcit318-assignment2-11024572\\AbstractClasses\\AbstractClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment2-11024572\\AbstractClasses\\AbstractClasses.csproj",
+        "projectUniqueName": "C:\\Users\\Caleb\\Downloads\\dcit318-assignment2-11024572\\AbstractClasses\\AbstractClasses.csproj",
         "projectName": "AbstractClasses",
-        "projectPath": "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment2-11024572\\AbstractClasses\\AbstractClasses.csproj",
+        "projectPath": "C:\\Users\\Caleb\\Downloads\\dcit318-assignment2-11024572\\AbstractClasses\\AbstractClasses.csproj",
         "packagesPath": "C:\\Users\\Caleb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment2-11024572\\AbstractClasses\\obj\\",
+        "outputPath": "C:\\Users\\Caleb\\Downloads\\dcit318-assignment2-11024572\\AbstractClasses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Caleb\\AppData\\Roaming\\NuGet\\NuGet.Config"

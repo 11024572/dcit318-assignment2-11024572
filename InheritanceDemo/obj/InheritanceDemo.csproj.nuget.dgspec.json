@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment2-11024572\\InheritanceDemo\\InheritanceDemo.csproj": {}
+    "C:\\Users\\Caleb\\Downloads\\dcit318-assignment2-11024572\\InheritanceDemo\\InheritanceDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment2-11024572\\InheritanceDemo\\InheritanceDemo.csproj": {
+    "C:\\Users\\Caleb\\Downloads\\dcit318-assignment2-11024572\\InheritanceDemo\\InheritanceDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment2-11024572\\InheritanceDemo\\InheritanceDemo.csproj",
+        "projectUniqueName": "C:\\Users\\Caleb\\Downloads\\dcit318-assignment2-11024572\\InheritanceDemo\\InheritanceDemo.csproj",
         "projectName": "InheritanceDemo",
-        "projectPath": "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment2-11024572\\InheritanceDemo\\InheritanceDemo.csproj",
+        "projectPath": "C:\\Users\\Caleb\\Downloads\\dcit318-assignment2-11024572\\InheritanceDemo\\InheritanceDemo.csproj",
         "packagesPath": "C:\\Users\\Caleb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment2-11024572\\InheritanceDemo\\obj\\",
+        "outputPath": "C:\\Users\\Caleb\\Downloads\\dcit318-assignment2-11024572\\InheritanceDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Caleb\\AppData\\Roaming\\NuGet\\NuGet.Config"
