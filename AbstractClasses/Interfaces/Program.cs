@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MovableApp
+namespace Interfaces
 {
     // Interface definition
     public interface IMovable
